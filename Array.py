@@ -7,6 +7,7 @@ for i in range(1,11):
 
 print("Los elementos del arreglo son: ")
 print(a,"\n")
+
 print("En orden Inverso: ")
 
 for i in reversed(a):

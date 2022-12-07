@@ -8,7 +8,7 @@ while True:
 		print("   5. Salir")
 
 		print("Elija una opcion entre los numeros indicados: ")
-		op = float(input())
+		op = int(input())
 	
 		if op==1:
 			print("Lecturas recomendables:")
