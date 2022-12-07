@@ -22,4 +22,6 @@ def menu():
     print('El nuevo valor de',num, 'es: ') 
     triplicar(num) 
 
+
+
 menu()
